@@ -37,6 +37,8 @@ With the rise of digital music platforms, users face difficulty in discovering s
 5. Access the recommendation engine via a Streamlit web app.
 
 ---
+### Dataset
+Download the dataset from [Kaggle]([https://www.kaggle.com/...](https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset)) and place it in the project root folder as `data.csv`.
 
 ## ▶️ How to Run the App
 
